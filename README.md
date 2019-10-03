@@ -1,1 +1,2 @@
 # project1
+XcodeClub is run by Daniel who is a passionate developer himself. From the reviews I see, the service is fast and friendly. The pricing is less flexible than MacInCloud and you’ll have to commit to at least a month.
